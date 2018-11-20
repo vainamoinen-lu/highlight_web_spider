@@ -1,1 +1,1 @@
-# highlight_web_spider
+# light_weight_web_spider
